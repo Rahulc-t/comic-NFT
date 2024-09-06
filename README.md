@@ -1,1 +1,1 @@
-# comic-NFT
+# comic-NFt
