@@ -16,22 +16,4 @@
         "value": "Surprised"
       }  ]
   }
-,
-    {"description": "fight to the death", 
-    "external_url": "https://kba.ai/", 
-    "image": "https://ivory-rational-reptile-786.mypinata.cloud/ipfs/QmPeSVxd9VA2wyEGYSXAoPxvPVDimECAEJzEYr43k2JVsn", 
-    "name": "rooster",
-    "attributes": [  {
-        "trait_type": "Base", 
-        "value": "Starfish"
-      }, 
-      {
-        "trait_type": "Eyes", 
-        "value": "Big"
-      }, 
-      {
-        "trait_type": "Mouth", 
-        "value": "Sad"
-      }  ]
-  
-}]
+]
